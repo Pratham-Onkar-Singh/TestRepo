@@ -1,4 +1,4 @@
 # TestRepo
 Learning GIT/GITHUB
 <br>
-Author - CodeArtisan
+Author - CodeArtisan(Pratham-Onkar-Singh)
